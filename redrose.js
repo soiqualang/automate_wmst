@@ -68,7 +68,7 @@ var NDVI = L.timeDimension.layer.wms(NDVI_source, {
     proxy: proxy,
     updateTimeDimension: true,
 });
-//NDVI.addTo(map);
+NDVI.addTo(map);
 
 
 

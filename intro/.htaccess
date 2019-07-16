@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "My Protected Area"
+AuthUserFile D:/sync/websvr/xampp/automate_wmst/intro/.htpasswd
+Require valid-user
